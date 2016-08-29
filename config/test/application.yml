@@ -1,0 +1,6 @@
+server:
+  port: 11112
+
+spring.freemarker:
+  settings:
+    auto_import: /spring.ftl as s,/common/config-util.ftl as u
